@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oj6jZ+vCSHbH5VD1SB5wT1NPoWXeXsW9mqz2OaXJbTGWHhIlbuvETztPqZN8cjIOwWHYOb7r3r2oFQLvicnfyw==",
+  "success": true,
+  "projectFilePath": "/Users/015756/Documents/Projects/IdentityIntelligence/sim-intelligence/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/015756/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
